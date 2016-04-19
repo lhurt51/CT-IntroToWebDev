@@ -1,0 +1,22 @@
+body{
+  font-family: 'Lucida Console', Monaco, monospace;
+  color: #ff6600;
+  background-image: url(http://randomwallpapers.net/zen-custom-windows-1920x1080-wallpaper40221.jpg);
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-attachment: fixed;
+}
+.page-wrapper {
+  width: 64%;
+  margin: 0 auto;
+}
+h1{
+  font-family: impact, charcoal, san-serif;
+  letter-spacing: 18px;
+  line-height: 4;
+  background-image: url(https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSGB3HwIGL9YgfVtbzrgAvvmuwJWfQRT9pWttRsxBU-7131XaxY);
+  font-weight: bold;
+  font-size: 45px;
+  color: #000099;
+  text-align: center;
+}
